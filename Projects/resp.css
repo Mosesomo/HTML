@@ -1,0 +1,55 @@
+body
+
+{
+
+	background-color: khaki;
+
+}
+
+p
+
+{
+
+	font-family: courier;
+
+	font-size: 20px;
+
+	color: black;
+
+}
+
+h1
+
+{
+
+	font-family: verdana;
+
+	color: red;
+
+}
+
+h2
+
+{
+
+	font-family: bold;
+
+	color: black;
+
+}
+
+img
+
+{
+
+	border-radius: 50%;
+
+	width: 10cm;
+
+	height: 10cm;
+
+}
+div
+{
+	display: inline-block;
+}
